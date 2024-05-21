@@ -12,7 +12,9 @@
   display: block;
   font-size: 4.5rem;
 }
-
+#countdown ul {
+  padding-left: 0px;
+}
 @media all and (max-width: 768px) {
   .list {
     font-size: calc(1.125rem * var(--smaller));
