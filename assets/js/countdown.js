@@ -1,5 +1,5 @@
 // Definisci la data e l'ora di riferimento per il countdown
-const targetDate = new Date('2024-06-08T14:00:00');
+const targetDate = new Date('2024-06-08T15:00:00');
 
 // Funzione per calcolare il countdown
 function countdown() {
