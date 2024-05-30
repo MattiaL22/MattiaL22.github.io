@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vincenzolotesoriere.me/sitemap.xml
